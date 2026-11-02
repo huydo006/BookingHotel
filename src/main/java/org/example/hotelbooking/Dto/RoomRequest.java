@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 @NoArgsConstructor
 public class RoomRequest {
     private Integer capacity;
-    private String roomType;
-    private BigDecimal unitPrice;
+    private String room_type;
+    private BigDecimal unit_price;
     private String available;
 }
